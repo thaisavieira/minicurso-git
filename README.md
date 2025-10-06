@@ -7,6 +7,8 @@ Comandos tratados durante o curso:
 - git status;
 - git add;
 - git commit -m "esse commit..."
+- git log
+- git push origin main
 ```
 function fatecSorocaba{
     const git = 1
